@@ -1,7 +1,4 @@
-
-### CHALLENGE 
 import re
-### iterate through input
 
 def equation():
     expression = (input("write your problem: "))
